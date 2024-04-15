@@ -1,0 +1,2 @@
+* python-vterm
+This provides a major mode for emacs that starts an ipython REPL using vterm. The original code is from [[https://github.com/shg/julia-vterm.el][julia-vterm]], with only the necessary modifications (i.e find and replace) to make it work for Python.
